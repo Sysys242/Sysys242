@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>🖤 Follow me here:</b><br>
-  <a href="https://discord.gg/rosiamc">Discord</a> |
+  <a href="https://discord.gg/nGy4fDd7sn">Discord</a> |
   <a href="https://www.youtube.com/c/sysysysy242">YouTube</a> |
   <a href="https://github.com/Sysys242">Github</a>
   <br><br>
