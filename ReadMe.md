@@ -8,7 +8,7 @@
   <br><br>
   <img src="https://cdn.discordapp.com/attachments/762750100500906044/860549000939831316/183296.gif">
   <br><br>
-  <img src="https://discord.c99.nl/widget/theme-2/935324425530777670.png">
+  <img src="https://discord.c99.nl/widget/theme-2/1014543059352047666.png">
 </p>
 
 #
