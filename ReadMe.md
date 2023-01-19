@@ -15,19 +15,7 @@
 ```diff
 👤 >> 14 years old, french developper.
 🗣️ >> sysys.owo@gmail.com
-🐺 >> Learn java, kotlin
+🐺 >> Learn java, python and other
 ```
 #
 <h1 align="center">LANGUAGE</h1>
-
-<p align="center"> 
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp; |
-  <code><img height="25" src="https://www.secret-source.eu/wp-content/uploads/2017/11/C-sharp-logo.jpg"></code>&nbsp;
-</p>
-
-<h1 align="center">LEARN</h1>
-
-<p align="center"> 
-  <code><img height="25" src="https://spin.atomicobject.com/wp-content/uploads/20170727210032/kotlin-590x393.png"></code>&nbsp; |
-  <code><img height="25" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"></code>&nbsp;
-</p>
