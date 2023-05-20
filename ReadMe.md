@@ -15,6 +15,6 @@
 ```diff
 👤 >> 14 years old, french developper.
 🗣️ >> sysys.owo@gmail.com
-🐺 >> Learn java, python and other
+🐺 >> Learn js, python and other
 ```
 #
