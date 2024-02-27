@@ -7,7 +7,7 @@
   <a href="https://github.com/Sysys242">Github</a> |
   <a href="https://deobfuscate.fr/">Website</a>
   <br><br>
-  <img src="https://cdn.discordapp.com/attachments/762750100500906044/860549000939831316/183296.gif">
+  <img src="https://giffiles.alphacoders.com/183/183296.gif">
   <br><br>
 </p>
 
